@@ -1,3 +1,3 @@
-Collaboration requires clear communication and well-defined responsibilities.
+# Collaboration
 
-This is the second paragraph.
+Collaboration requires clear communication and well-defined responsibilities.
