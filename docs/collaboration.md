@@ -1,3 +1,3 @@
-Collaboration requires clear communication and well-defined responsibilities.
+# Collaboration
 
-This is the second paragraph.
+Effective teamwork depends on continuous feedback and shared understanding.
